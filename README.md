@@ -1,4 +1,6 @@
-# Data Challenge - Text Classification
+# Data Challenge - Text Classification 
+* (This code and report is part of my assessment during Master's for unit Applied Data Science) *
+
 
 Data Analysis Task
 With the enormous evolution in data since last few decades, text classification is key in organizing and handling text data. Text classification can be used for news stories classification, search information on the internet and guide a user’s search through hypertext. This report will guide through how the task of text classification has been done.
